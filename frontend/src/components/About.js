@@ -14,7 +14,7 @@ function About() {
           <p>Through our news coverage, we empower individuals to engage with diverse perspectives and connect with others. Join us in building a more informed, compassionate world where understanding and empathy flourish.</p>
         </div>
         <hr className="line" /> 
-        <h2 className='about-subheading'>MEET OUR FOUNDERS</h2>
+        <h2 className='about-subheading'>MEET OUR FOUNDER</h2>
         <div className="container text-center">
         <div className="row">
           <div className="col-md-4">
@@ -29,9 +29,9 @@ function About() {
                   </div>
                   <a href="https://www.instagram.com/aravind_ss_2004?igsh=MXBlNnh5dHh1MmlqeQ==&utm_source=ig_contact_invite "><i className="fab fa-instagram"></i></a>
                   <span className="about__link-space"></span>
-                  <a href="https://github.com/24-Aarushi-Singh-24"><i className="fab fa-github"></i></a>
+                  <a href="https://github.com/aravindss2004"><i className="fab fa-github"></i></a>
                   <span className="about__link-space"></span>
-                  <a href="https://github.com/aravindss2004"><i className="fab fa-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/aravind-s-s-01103a2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i className="fab fa-linkedin"></i></a>
                   
                 </div>
               </div>
