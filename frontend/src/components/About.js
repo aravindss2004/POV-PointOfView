@@ -20,67 +20,24 @@ function About() {
           <div className="col-md-4">
             <div className="about-card">
               <div className="about__details">
-                <h2>Aarushi Singh </h2>
+                <h2>Aravind S S </h2>
                 <h3>Software Engineer</h3>
                
                 <div className="about__links">
                 <div className='email'>
-                <a href="mailto:aarushi.singh2412@gmail.com"><i className="fas fa-envelope"></i> aarushi.singh2412@gmail.com</a>
+                <a href="mailto:ssaravind2004@mail.com"><i className="fas fa-envelope"></i> ssaravind2004@mail.com</a>
                   </div>
-                  <a href="https://www.instagram.com/24aarushi.singh24?igsh=cmJ5N2FjdzNnbmpp"><i className="fab fa-instagram"></i></a>
+                  <a href="https://www.instagram.com/aravind_ss_2004?igsh=MXBlNnh5dHh1MmlqeQ==&utm_source=ig_contact_invite "><i className="fab fa-instagram"></i></a>
                   <span className="about__link-space"></span>
                   <a href="https://github.com/24-Aarushi-Singh-24"><i className="fab fa-github"></i></a>
                   <span className="about__link-space"></span>
-                  <a href="https://www.linkedin.com/in/aarushi-singh-530a36226/"><i className="fab fa-linkedin"></i></a>
+                  <a href="https://github.com/aravindss2004"><i className="fab fa-linkedin"></i></a>
                   
                 </div>
               </div>
             </div>
           </div>
 
-          <div className="col-md-4">
-            <div className="about-card">
-            
-              <div className="about__details">
-              <h2>Amritjot Kaur</h2>
-              <h3>Software Engineer</h3>
-              
-                <div className="about__links">
-                <div className='email'>
-                <a href="mailto:amritjot.549@gmail.com"><i className="fas fa-envelope"></i> amritjot.549@gmail.com</a>
-                  </div>
-                  <a href="https://www.instagram.com/__.amritjot?igsh=dHZncWh1b3ZtOXNh"><i className="fab fa-instagram"></i></a>
-                  <span className="about__link-space"></span>
-                  <a href="https://github.com/Amrit49"><i className="fab fa-github"></i></a>
-                  <span className="about__link-space"></span>
-                  <a href="https://www.linkedin.com/in/amritjot-kaur"><i className="fab fa-linkedin"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-4">
-            <div className="about-card">
-              <div className="about__details">
-                <h2>Heena Matlani</h2>
-                <h3>Software Engineer</h3>
-
-                <div className="about__links">
-                <div className='email'>
-                  <a href="mailto:heenamatlani07@gmail.com"><i className="fas fa-envelope"></i> heenamatlani07@gmail.com</a>
-                  </div>
-                  <a href="https://www.instagram.com/heenamatlani07"><i className="fab fa-instagram"></i></a>
-                  <span className="about__link-space"></span>
-                  <a href="https://github.com/heenaMatlani"><i className="fab fa-github"></i></a>
-                  <span className="about__link-space"></span>
-                  <a href="https://www.linkedin.com/in/heenamatlani"><i className="fab fa-linkedin"></i></a>
-                  <span className="about__link-space"></span>
- 
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
